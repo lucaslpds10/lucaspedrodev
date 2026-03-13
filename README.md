@@ -22,7 +22,7 @@ Desenvolvedor Web Full Stack em formação.
 
 ## 🔧 Projetos
 
-📌 Sistema de Cadastro para registra ganhor por produção em um projeto de automoção.
+📌 Sistema de Cadastro para registrar ganhos por produção em um projeto de automoção.
 *proejeto:lucaslpds10 RGA_APP_3.0
 
 ## 📫 Contato
